@@ -8,9 +8,11 @@
 - artifacts concepts
 
 ## areas of enchancement:
+- https://ai-sdk.dev/elements use the ai-sdk from shadcn to futher improve the used components, or take inspiration from it.
 - integrate rich text editor to send messages
 - abort mechanism for async operation in the chat bot
 - consider mobile devices with the design, as it is now more of a tablet/pc application.
+- allow data streaming
 
 ## structure
 - app
